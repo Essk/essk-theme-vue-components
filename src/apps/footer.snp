@@ -1,0 +1,6 @@
+    }
+    config.output.filename='js/[name].build.js';
+    config.output.chunkFilename='js/[name].js';
+    
+  }
+}
